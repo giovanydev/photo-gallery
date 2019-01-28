@@ -1,0 +1,13 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+h1 {
+	font-family: Crimson Text;
+	margin-left: 1.66%;
+	border-bottom: 3px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 5px;
+}
